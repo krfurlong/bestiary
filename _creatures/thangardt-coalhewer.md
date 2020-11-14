@@ -70,8 +70,13 @@ On initiative count 20, the *Charge Krystallsjel* event occurs as well as a rand
 ***Charge Krystallsjel.*** The *Krystallsjel* gains one charge to a max of five charges.
 
 ***1: Open Window to the Descent.*** All hostile individuals within 30 feet of the the window must make a DC15 Wisdom saving throw or be frightened of the Descent for the next minute. 
+
 ***2: Summon Snakes.*** A Swarm of Poisonous Snakes is summoned forth from the pool of water - it roles its own initiative.
+
 ***3: Volcanic Pulse.*** A tremor emits from Tharmekhul causing the entire interior to shake. All hostile creatures must make a DC15 Strength saving throw or fall prone and take 1d6 bludgeoning damage.
+
 ***4: Fracture Krystallsjel.*** A shard of the Krystallsjel breaks off causing a blast of confusion to pulse throughout the room. All creatures must make a DC15 Wisdom saving throw or suffer from the effects of the Confusion Spell until the end of their next turn.
+
 ***5: Whispers from the Mouths.*** An imperceptible at first but growing ever louder tide of whispers begins filling the air around the pool of water. All creatures within 15 feet of the water must make a DC15 Charisma saving throw or be charmed by the whispers to use their movement to jump in the water. The whispers cannot be heard by anyone outside of the 15 foot area surrounding the pool.
+
 ***6: Siphon Mositure.*** The force from within the pool of water inhales and sucks moisture out of the air and of every orifice of those in the room. All individuals must make a DC15 Constitution saving throw or suffer one point of exhaustion. Additionally, the pool of water grows 5 feet closer to the floor.
